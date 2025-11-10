@@ -11,5 +11,7 @@
     <a href="/">Home</a>
     <a href="/about">About</a>
     <h1>Halaman About</h1>
+    <h3>Owner: {{ $nama }}</h3>
+    <img src="img/anin.jpg" alt="anin" width="200">
 </body>
 </html>
